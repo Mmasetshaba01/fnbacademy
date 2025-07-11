@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <link rel="stylesheet" href="style.css"
+    </head>
+    <body>
+        <h2><MONSTER1</h2>
+        <div class="gallery">
+            <img src="images/MONSTER1.jpg"/>
+    </body>
+</html>
